@@ -28,6 +28,6 @@ Price: Price
 
 ## Data Analysis
 
-## PEFORMANCE AND ACCURACY OF THE ALGORITHMS
+## Performance and Accuracyof the Algorithms
 
 
