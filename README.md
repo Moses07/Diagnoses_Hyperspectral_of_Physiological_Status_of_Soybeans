@@ -1,4 +1,4 @@
-# Diagnoses_Hyperspectral_of_Physiological_Status_of_Soybeans
+# Diagnoses_Hyperspectral_Soybeans_Physiological_Status
 Digital Solution - Stress Detection: Diagnosis of the Physiological Status of Soybean Crop by means of Hyperspectral Images
 # Description of the solution
 This solution is targeted at small, medium and large soybean growers and aims to allow the detection by remote sensing (via drone, vants) of the nutritional status of glycine max soybean plants under large-scale cultivation conditions (possible nutritional deficiencies of macro and micronutrients) and water stress (abiotic), from aerial images with hyperspectral camera.
